@@ -1,0 +1,19 @@
+{
+  "name": "gestion-donnees-open-standards",
+  "version": "1.0.0",
+  "description": "Une application de gestion de données qui respecte les standards ouverts pour l'échange et l'intégration des données.",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "mongoose": "^5.10.9",
+    "moment": "^2.29.1"
+  },
+  "author": "Votre Nom",
+  "license": "MIT"
+}
