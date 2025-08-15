@@ -17,6 +17,6 @@
   "devDependencies": {
     "jest": "^26.6.0"
   },
-  "author": "Votre Nom",
+  "author": "Nom de l'Auteur",  
   "license": "MIT"
 }
